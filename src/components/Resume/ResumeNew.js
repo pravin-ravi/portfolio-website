@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink = 
-   "https://raw.githubusercontent.com/pravin-ravi/portfolio-master/master/src/Assets/Pravin_ravi.pdf";
+   "https://raw.githubusercontent.compravin-ravi/portfolio-website/blob/master/src/Assets/Pravin_ravi.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
