@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by RISHAV DEV </h3>
+          <h3>Designed and Developed by Pravin Ravi </h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} DR</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/dev26rishav"
+                href="https://github.com/pravin-ravi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/believerishii"
+                href="https://twitter.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/rishav-dev-a79122200/"
+                href="https://www.linkedin.com/in/pravin-ravi-8115b6130/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/thebelieverishii/"
+                href="https://www.instagram.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
