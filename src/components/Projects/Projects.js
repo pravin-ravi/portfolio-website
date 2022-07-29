@@ -49,7 +49,7 @@ function Projects() {
               description="A personal portfolio website built using ReactJs functional components and also employing CSS
               techniques for styling. Looking forward to add a backend server to the webiste. The first version just showcase the projects and skills acquired by me in during the short span of my progamming journey"
               ghLink="https://github.com/pravin-ravi/portfolio-website"
-              demoLink="https://portfolio-026.netlify.app//"              
+              demoLink="https://pravin-ravi.netlify.app/"              
             />
           </Col>
 
